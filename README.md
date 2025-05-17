@@ -1,6 +1,6 @@
 # Study Double
 
-StudyDouble is a web-based real-time study matching platform designed to help students find ideal study partners based on shared preferences, goals, and communication styles. The platform supports video calling, messaging, and intelligent matching through the use of modern web technologies.
+StudyDouble is a web-based productivity app that uses AI-driven compatibility matching to pair students for virtual body doubling sessions. Built with the MERN stack (MongoDB, Express.js, React.js, Node.js), it features real-time communication via WebRTC and Socket.io, secure authentication with JWT, and a multi-tiered matching algorithm combining user clustering, neural collaborative filtering, and productivity-based reranking to optimize study partner recommendations based on personality, goals, and study habits.
 
 ---
 
