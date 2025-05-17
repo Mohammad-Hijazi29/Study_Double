@@ -40,19 +40,14 @@ Then start the React frontend: npm start
 
 ## 👥 Features
 
-### 🧑‍💼 Registration & Login
-Visit the homepage.
-Create an account by filling out your name, email, password, and profile preferences.
-Log in to access the platform features.
+###🔐 Registration & Login
+Create an account with your name, email, and password, then customize your profile with study goals, communication style, and personality traits. Secure authentication is handled via JWT.
 
-### 🔍 Explore & Match
-View other user profiles under the "Explore" section.
-Add friends or initiate a study session.
+###🔎 Smart Matching & Explore
+Browse user profiles or get automatically paired using our AI-driven compatibility algorithm that considers study habits, personality, and productivity metrics.
 
-### 📹 Start a Study Session
-When matched with a user, click Start Session.
-A real-time video and audio room will open (powered by WebRTC).
-Use the chat box to exchange text messages.
+###📹 Real-Time Study Sessions
+Join 1-on-1 video sessions via WebRTC with built-in chat (Socket.io) to stay focused and accountable.
 
-### ✏️ Edit Profile
-Go to your profile page to update your study preferences, bio, and communication styles.
+###🧠 Personalized Profiles
+Update your academic info, session preferences, and communication style anytime to improve match accuracy.
