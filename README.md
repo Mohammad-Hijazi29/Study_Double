@@ -40,14 +40,14 @@ Then start the React frontend: npm start
 
 ## 👥 Features
 
-🔐 Registration & Login
+🔐 Registration & Login  
 Create an account with your name, email, and password, then customize your profile with study goals, communication style, and personality traits. Authentication is secured using JWT.
 
-🔎 Smart Matching & Explore
+🔎 Smart Matching & Explore  
 Browse user profiles or get automatically paired through our AI-driven algorithm that matches users based on study preferences, personality traits, and productivity metrics.
 
-📹 Real-Time Study Sessions
+📹 Real-Time Study Sessions  
 Join 1-on-1 video sessions via WebRTC with live chat powered by Socket.IO for a collaborative and focused study environment.
 
-🧠 Personalized Profiles
+🧠 Personalized Profiles  
 Update your academic information, session preferences, and communication style anytime to improve your matching results.
